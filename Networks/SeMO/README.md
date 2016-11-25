@@ -1,4 +1,6 @@
 # РГЗ. Людмила Федоровна Борисова
+need to create a banner: https://www.ispring.ru/ispring-free-cam
+
 major.minor[.build[.revision]]
 
 0 for alpha (status)<br/>
